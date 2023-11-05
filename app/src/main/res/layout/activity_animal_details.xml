@@ -40,6 +40,7 @@
         android:id="@+id/descriptionTextView"
         android:layout_marginTop="20dp"
         android:text="@string/lorem_ipsum"
+        android:justificationMode="inter_word"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
