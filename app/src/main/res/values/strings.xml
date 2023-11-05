@@ -7,5 +7,5 @@
     <string name="manage_block_activity">Manage Block Activity</string>
     <string name="animal_details">Animal Details</string>
     <string name="block_animal">Block Animal</string>
-    <string name="manage_blocked_persons">Manage Blocked Persons</string>
+    <string name="manage_block_animals">Manage Block Animals</string>
 </resources>
